@@ -1,5 +1,5 @@
 # Speech Recognition System
-
+A simple Voice to Text application built using Python, Tkinter, and the SpeechRecognition library.
 ## Project Description
 
 This project is a Speech Recognition System that converts spoken audio into text using Machine Learning and Deep Learning techniques. The system takes audio input from a microphone or audio file, processes it, extracts features, and predicts the corresponding text output.
