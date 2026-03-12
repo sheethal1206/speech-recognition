@@ -52,8 +52,6 @@ pip install -r requirements.txt
 python app.py
 
 ---
+## Output
 
-## Author
-
-Your Name  
-B.Tech Student
+![Output Screenshot](output.jpeg)
